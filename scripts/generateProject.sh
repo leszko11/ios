@@ -1,3 +1,3 @@
 #!/bin/bash
-rm -r ProteGO.xcodeproj
-rm -r ProteGO.xcworkspace
+rm -r ProteGO.xcodeproj || true
+rm -r ProteGO.xcworkspace || true

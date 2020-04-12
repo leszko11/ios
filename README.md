@@ -11,6 +11,7 @@ Aplikacja ProteGO wykorzystuje Carthage oraz CocoaPods do zarządzania zależno�
  * Instalacja Gem-ów Ruby (w tym CocoaPods): `bundle install`
  * Instalacja Carthage: [jest kilka możliwych opcji](https://github.com/Carthage/Carthage#installing-carthage)
  * Akualizacja zależności zarządzanych przez Carthage: `./scripts/updateCarthage.sh`
+ * Wygenerowanie nowego projektu `sh scripts/bootstrap.sh`
 
 ## Rodzaje środowisk
 
