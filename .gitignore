@@ -37,3 +37,5 @@ Carthage/Build/*version
 localization_credentials.json
 venv
 .vscode
+
+ProteGO.xcodeproj
