@@ -1,3 +1,5 @@
+github "Airhelp/Mimus" "1.1.5"
+github "InderKumarRathore/DeviceGuru" "6.0.4"
 github "Khan/SwiftTweaks" "v4.0.3"
 github "Quick/Nimble" "v8.0.5"
 github "Quick/Quick" "v2.2.0"
